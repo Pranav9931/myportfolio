@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="221" height="200" viewBox="0 0 221 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Search_Icon);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #f8f5f5;
+        stroke-linecap: round;
+        stroke-width: 16px;
+      }
+    </style>
+    <clipPath id="clip-Search_Icon">
+      <rect width="221" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="Search_Icon" data-name="Search Icon" class="cls-1">
+    <path id="Union_1" data-name="Union 1" class="cls-2" d="M128.786,125.23,172.5,165.5ZM2.5,72.973C2.5,34.05,33.253,2.5,71.193,2.5s68.692,31.55,68.692,70.473-30.753,70.473-68.692,70.473S2.5,111.9,2.5,72.973Z" transform="translate(23 16)"/>
+  </g>
+</svg>

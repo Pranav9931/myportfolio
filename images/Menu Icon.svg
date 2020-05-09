@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="221" height="200" viewBox="0 0 221 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Menu_Icon);
+      }
+
+      .cls-2 {
+        fill: #404040;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 15px;
+      }
+    </style>
+    <clipPath id="clip-Menu_Icon">
+      <rect width="221" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="Menu_Icon" data-name="Menu Icon" class="cls-1">
+    <g id="Menu_Bar" data-name="Menu Bar" transform="translate(-1773 -19)">
+      <circle id="Ellipse_10" data-name="Ellipse 10" class="cls-2" cx="99.5" cy="99.5" r="99.5" transform="translate(1784 20)"/>
+      <line id="Line_8" data-name="Line 8" class="cls-3" x2="85.087" transform="translate(1836.917 91.374)"/>
+      <line id="Line_9" data-name="Line 9" class="cls-3" x2="109.085" transform="translate(1836.917 119.736)"/>
+      <line id="Line_10" data-name="Line 10" class="cls-3" x2="67.633" transform="translate(1836.917 150.28)"/>
+    </g>
+  </g>
+</svg>

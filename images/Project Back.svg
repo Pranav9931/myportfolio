@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1918" height="1149" viewBox="0 0 1918 1149">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Project_Back);
+      }
+
+      .cls-2 {
+        fill: #ffcdb2;
+      }
+
+      .cls-2, .cls-3 {
+        opacity: 0.27;
+      }
+
+      .cls-3 {
+        fill: #e5989b;
+      }
+    </style>
+    <clipPath id="clip-Project_Back">
+      <rect width="1918" height="1149"/>
+    </clipPath>
+  </defs>
+  <g id="Project_Back" data-name="Project Back" class="cls-1">
+    <g id="Back_Projects" data-name="Back Projects" transform="translate(122 -3623)">
+      <rect id="Rectangle_56" data-name="Rectangle 56" class="cls-2" width="647" height="153" rx="76.5" transform="translate(-336.27 4012.93) rotate(-9)"/>
+      <rect id="Rectangle_57" data-name="Rectangle 57" class="cls-2" width="746" height="153" rx="76.5" transform="translate(467.061 3874.784) rotate(-9)"/>
+      <rect id="Rectangle_62" data-name="Rectangle 62" class="cls-2" width="746" height="153" rx="76.5" transform="translate(435.241 4481.951) rotate(-9)"/>
+      <rect id="Rectangle_64" data-name="Rectangle 64" class="cls-3" width="746" height="153" rx="76.5" transform="translate(1337.646 4344.991) rotate(-9)"/>
+      <rect id="Rectangle_63" data-name="Rectangle 63" class="cls-3" width="746" height="153" rx="76.5" transform="translate(-482.98 4634.103) rotate(-9)"/>
+      <rect id="Rectangle_59" data-name="Rectangle 59" class="cls-3" width="746" height="153" rx="76.5" transform="translate(29.01 4227.341) rotate(-9)"/>
+      <rect id="Rectangle_60" data-name="Rectangle 60" class="cls-2" width="554" height="153" rx="76.5" transform="translate(945.495 4070.091) rotate(-9)"/>
+      <rect id="Rectangle_61" data-name="Rectangle 61" class="cls-2" width="482" height="153" rx="76.5" transform="translate(1657.428 3937.168) rotate(-9)"/>
+      <rect id="Rectangle_58" data-name="Rectangle 58" class="cls-3" width="647" height="153" rx="76.5" transform="translate(1370.199 3723.844) rotate(-9)"/>
+    </g>
+  </g>
+</svg>

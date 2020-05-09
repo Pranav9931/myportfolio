@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1918" height="876" viewBox="0 0 1918 876">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Black_Image);
+      }
+    </style>
+    <clipPath id="clip-Black_Image">
+      <rect width="1918" height="876"/>
+    </clipPath>
+  </defs>
+  <g id="Black_Image" data-name="Black Image" class="cls-1">
+    <path id="Path_218" data-name="Path 218" d="M0,2208.406s-9.014-57.088,54.083-84.13,1714.762-49.973,1786.873-58.987,79-121.069,79-121.069v880.135L-3,2821.352Z" transform="translate(3 -1944)"/>
+  </g>
+</svg>
