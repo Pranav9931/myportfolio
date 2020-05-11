@@ -2,11 +2,11 @@
 <html>
 <head>
 	<script type="text/javascript">
-			/*var screenwidth = screen.width;
-
+	var screenwidth = screen.width;
 	if (screenwidth > 500) {
-		window.location ='../index.html';
-	}*/
+		window.location ='https://Pranav9931.github.io/portfolio/index.html';
+	}
+
 	</script>	
 	<title>Pranav Kumar Portfolio | Web Developer | UI/UX Designer</title>
 	<link rel="icon" type="icon/logo" href="images/Build New.svg">
@@ -16,11 +16,14 @@
 
 	<script>
 		function preloaderhide() {
+			var height = $(window).height();
 	$('.preloader').css({'visibility' : 'hidden'});
 	$('.main-image').animate({'bottom' : '38em', 'opacity' : '1'}, 400);
 	$('.main-text').animate({'bottom' : '7.5em', 'opacity' : '1'}, 600);
 	$('.main-text-second').animate({'bottom' : '7em', 'opacity' : '.8'}, 800);
 	$('.header button').animate({'width' : '35vw'}, 400);
+	$('.header').css({'height' : + height + 'px'});
+	$('.header .menu-container').css({'height' : + height + 'px'});
 	}
 	
 
@@ -219,7 +222,7 @@
 				<embed src="images/Contact Image.svg"></embed>
 			</div>
 			<div class="form">
-				<form autocomplete="off">
+				<form autocomplete="off" method="post" action="../response.php">
 					<div style="width:80%;display: flex; position: relative;left:50%;transform: translateX(-50%);">
 					<div class="name">
 					<label>Name</label><sup style="color:red;">*</sup>
