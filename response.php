@@ -35,9 +35,9 @@
 	$Email = $_POST['emial'];
 
 	$host = 'sql103.epizy.com';
-	$username = 'epiz_25238873';
-	$password = 'pranav9931';
-	$database = 'epiz_25238873_Portfolio';
+	$username = ''; //User Name here
+	$password = ''; //Password Here
+	$database = ''; //Your Database Name
 	if (!$conn = mysqli_connect("$host" , "$username" , "$password" , "$database")) {
 		echo "Not Connected To The Server<br>";
 	}
